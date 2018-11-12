@@ -3,7 +3,7 @@
 Banks is an algorithm for data and schema browsing together with keyword-based search. You can get information from a relational database by typing a few
 keywords.
 
-For more information you can check out the slides on <a href="https://speakerdeck.com/prof18/banks-keyword-searching-and-browsing-in-database" target="blank">Speaker Deck</a>
+For more information you can check out <a href="https://drive.google.com/file/d/1GuxNKPNajxpZjDzqzQ5TsShbuxNVsA9g/view?usp=sharing" target="blank">slides</a> and <a href="https://drive.google.com/file/d/1Ey1V_IQIfpCb7hkqhDl4TAVcAQ-iBXAK/view?usp=sharing" target="blank">tests</a>
 
 ## References:
 
