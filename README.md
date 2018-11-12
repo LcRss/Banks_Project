@@ -1,3 +1,9 @@
+## INFO
+This code was implemented during a Database course by: 
+Marco Gomiero; 
+Luca Rossi.
+
+
 # BANKS - Keyword Searching and Browsing in Database
 
 Banks is an algorithm for data and schema browsing together with keyword-based search. You can get information from a relational database by typing a few
