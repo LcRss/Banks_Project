@@ -8,8 +8,9 @@ For more information you can check out <a href="https://drive.google.com/file/d/
 ## References:
 
 G. Bhalotia, A. Hulgeri, C. Nakhe, S. Chakrabarti, and S. Sudarshan,
-“Keyword Searching and Browsing in Databases Using BANKS”,
+“<a href="https://www.cse.iitb.ac.in/~sudarsha/Pubs-dir/BanksICDE2002.pdf" target="blank">Keyword Searching and Browsing in Databases Using BANKS</a> ”,
 Proc. 18th Int’l Conf. Data Eng. (ICDE ’02), pp. 431-440, Feb. 2002.
+
 
 ## License
 ```
